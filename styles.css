@@ -1,0 +1,14 @@
+img {
+    width: 250px;
+}
+body {
+    text-align: center;
+    font-size: 30;
+}
+
+h1 {
+    font-family: verdana;
+    font-size: 50;
+    background-color:rgb(255,0,0);
+}
+
