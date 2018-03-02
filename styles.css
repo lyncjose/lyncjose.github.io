@@ -1,14 +1,20 @@
 img {
     width: 250px;
+    background-color: rgb(255,0,0);
 }
 body {
     text-align: center;
     font-size: 30;
+    background-color: rgb(0,0,255);
 }
 
-h1 {
+h2 {
     font-family: verdana;
-    font-size: 50;
+    font-size: 45;
     background-color:rgb(255,0,0);
+    height: 50;
 }
-
+p {
+    background-color: rgb(255, 145, 46);
+    font-size: 20;    
+}
